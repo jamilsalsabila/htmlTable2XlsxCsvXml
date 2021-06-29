@@ -5,4 +5,4 @@ skrip mengeksport html table ke dalam format pdf, csv, dan xml
   node coba_xlsx_csv_xml.js [source file] [dest file]
   
 ### source file: .html
-### dest file: .pdf, .xmk, atau .xlsx
+### dest file: .pdf, .xml, atau .xlsx
